@@ -1,22 +1,27 @@
-echo "# Temperature Converter in Java
+🌡️ Temperature Converter in Java
 
-A simple Java console application that converts temperatures between Celsius, Fahrenheit, and Kelvin.
+A Java console application that performs temperature conversions between Celsius, Fahrenheit, and Kelvin.
 
-## Features
-- Celsius ↔ Fahrenheit ↔ Kelvin conversions
-- Menu-driven console interface
-- Beginner-friendly Java program
+This project demonstrates core Java programming concepts such as:
 
-## How to Run
-1. javac TemperatureConverter.java
-2. java TemperatureConverter
+Handling user input with Scanner
 
-## Example Test Case
-Input: 1 (Celsius to Fahrenheit), value = 100
-Output: 212.0°F
-" > README.md
+Implementing a menu-driven console interface
 
-git add README.md
-git commit -m "Added README with description"
-git push
+Using modular methods for clean and reusable conversion logic
 
+Applying the correct formulas for all six temperature conversions
+
+✨ Features
+
+🔄 Convert Celsius → Fahrenheit / Kelvin
+
+🔄 Convert Fahrenheit → Celsius / Kelvin
+
+🔄 Convert Kelvin → Celsius / Fahrenheit
+
+🖥️ Simple menu-driven interface for user-friendly interaction
+
+💡 Beginner-friendly and easy to extend for additional conversions
+
+🚀 Cross-platform – works on any system with Java installed
